@@ -2,14 +2,15 @@
 Unsupervised Learning -- Hierarchical Clustering, k-means Algorithm, PCA, etc.
 
 1) Footwear Product Segmentation (Product_Segmentation): <br>
-A dataset of hundreds of female patients, provided by a biotech company, containing information about their age, skin thickness,
-blood pressure, glucose, etc. has been utilized to identify those with high risk of diabetes. <br>
+Hierarchical and k-means clustering techniques have been leveraged to cluster several thousands of Nike and Adidas products 
+into a handful of segments, based on attributes such as listing price, sale price, discount and rating. Distinctive features
+of different clusters have then been compared against each other using cluster profiling. <br>
 Key tools: K-Means Clustering, Agglomerative Clustering, Segmentation, Cluster Profiling <br>
 Libraries: scikit-learn, scipy.cluster, yellowbrick, matplotlib, seaporn, numpy, pandas
 
 2) RNA Sequencing Analysis of Cancer Tumors (Gene_Analysis): <br>
-A dataset of red wines, provided by a wine producing company called Moonshine, which entails the chemical properties of different 
-wines such as acidity, residual sugar, density, pH, percentage of alcoho, etc. has been used to separate the premimum wines from the
-others. <br>
+The gene expression data provided by RNA sequencing has been transformed into a much lower-dimensional space utilizing Principal
+Component Analysis so that at least 80% of the variance is retained. The results of PCA have then been contrasted against those of 
+the visualization/clustering technique known as t-distributed Stochastic Neighbor Embedding. <br>
 Key tools: Dimensionality Recuction, Reduced-Order Modeling, Principal Component Analysis, t-SNE Clustering <br>
 Libraries: scikit-learn, xgboost, numpy.linalg, matplotlib, seaporn, numpy, pandas
