@@ -19,7 +19,7 @@ Libraries: scikit-learn, numpy.linalg, matplotlib, seaporn, numpy, pandas
 3) Stock Segmentation for an Investment Management Firm (Stock_Clustering): <br>
 In order to devise personalized investment strategies for clients, an asset management firm has provided the stock data of a
 wide variety of companies present on NYSE, and has requested an ML-based solution for grouping of the stocks into distinct and 
-interpretable clusters, using their attributes such current price, price change, volatility index, cash ratio, cash flow and
+interpretable clusters, using their attributes such as current price, price change, volatility index, cash ratio, cash flow and
 P/E ratio. <br>
 Key tools: K-Means Clustering, Hierarchical Clustering, Cluster Profiling <br>
 Libraries: scikit-learn, scipy.cluster, yellowbrick, matplotlib, seaporn, numpy, pandas
