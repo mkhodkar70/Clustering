@@ -26,7 +26,7 @@ Libraries: scikit-learn, scipy.cluster, yellowbrick, matplotlib, seaporn, numpy,
 
 4) Personalization via Segmentation (CruiseSegmentation): <br>
 Segmentation of the customers of a cruise line, using a dataset of 20,000 guests, containing features such as their age, income,
-socioeconomic background, embarkment month and duration of the trip, for the purpose of personalized communication, which in turn
-boosts response and conversion rates. <br>
+socioeconomic background, no. of previous cruises, embarkment month and duration of the trip, for the purpose of personalized 
+communication, which in turn boosts response and conversion rates. <br>
 Key tools: Exploratory Data Analysis, K-Modes Clustering, Cluster Profiling <br>
 Libraries: kmodes, scikit-learn, scipy, yellowbrick, matplotlib, seaporn, numpy, pandas
