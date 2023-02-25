@@ -1,5 +1,5 @@
 # Clustering
-Unsupervised Learning -- Hierarchical Clustering, k-means Algorithm, PCA, etc.
+Unsupervised Learning -- Hierarchical Clustering, K-Means and K-Modes Algorithms, PCA, etc.
 
 1) Footwear Product Segmentation (Product_Segmentation): <br>
 Hierarchical and k-means clustering techniques have been leveraged to cluster several thousands of Nike and Adidas products 
